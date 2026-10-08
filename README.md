@@ -8,7 +8,19 @@ An interactive Looker Studio report analyzing GA4 public e-commerce data for Jan
 
 ### Preview
 
-The live report above is interactive. A static full-dashboard screenshot is still pending capture from the final published layout.
+Click any image to open the interactive dashboard.
+
+#### Key Metrics
+
+[![Key Metrics dashboard page](screenshots/key-metrics.png)](https://lookerstudio.google.com/reporting/cda2fd1d-e8a7-45d7-a32c-c80461883b32)
+
+#### Traffic Analysis
+
+[![Traffic Analysis dashboard page](screenshots/traffic-analysis.png)](https://lookerstudio.google.com/reporting/cda2fd1d-e8a7-45d7-a32c-c80461883b32)
+
+#### Conversion Funnel
+
+[![Conversion Funnel dashboard page](screenshots/conversion-funnel.png)](https://lookerstudio.google.com/reporting/cda2fd1d-e8a7-45d7-a32c-c80461883b32)
 
 ### Features
 
